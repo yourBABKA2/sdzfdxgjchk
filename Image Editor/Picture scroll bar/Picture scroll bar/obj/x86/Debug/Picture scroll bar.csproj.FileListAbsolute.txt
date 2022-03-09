@@ -1,0 +1,42 @@
+c:\documents and settings\alaa\mes documents\visual studio 2010\Projects\Picture scroll bar\Picture scroll bar\bin\Debug\Picture scroll bar.exe
+c:\documents and settings\alaa\mes documents\visual studio 2010\Projects\Picture scroll bar\Picture scroll bar\bin\Debug\Picture scroll bar.pdb
+c:\documents and settings\alaa\mes documents\visual studio 2010\Projects\Picture scroll bar\Picture scroll bar\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\alaa\mes documents\visual studio 2010\Projects\Picture scroll bar\Picture scroll bar\obj\x86\Debug\Picture_scroll_bar.Form1.resources
+c:\documents and settings\alaa\mes documents\visual studio 2010\Projects\Picture scroll bar\Picture scroll bar\obj\x86\Debug\Picture_scroll_bar.Properties.Resources.resources
+c:\documents and settings\alaa\mes documents\visual studio 2010\Projects\Picture scroll bar\Picture scroll bar\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\alaa\mes documents\visual studio 2010\Projects\Picture scroll bar\Picture scroll bar\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\alaa\mes documents\visual studio 2010\Projects\Picture scroll bar\Picture scroll bar\obj\x86\Debug\Picture scroll bar.exe
+c:\documents and settings\alaa\mes documents\visual studio 2010\Projects\Picture scroll bar\Picture scroll bar\obj\x86\Debug\Picture scroll bar.pdb
+C:\Users\chike\Downloads\source1\Picture scroll bar\Picture scroll bar\bin\Debug\Picture scroll bar.exe.config
+C:\Users\chike\Downloads\source1\Picture scroll bar\Picture scroll bar\bin\Debug\Picture scroll bar.exe
+C:\Users\chike\Downloads\source1\Picture scroll bar\Picture scroll bar\bin\Debug\Picture scroll bar.pdb
+C:\Users\chike\Downloads\source1\Picture scroll bar\Picture scroll bar\obj\x86\Debug\Picture scroll bar.csproj.AssemblyReference.cache
+C:\Users\chike\Downloads\source1\Picture scroll bar\Picture scroll bar\obj\x86\Debug\Picture scroll bar.csproj.SuggestedBindingRedirects.cache
+C:\Users\chike\Downloads\source1\Picture scroll bar\Picture scroll bar\obj\x86\Debug\Picture_scroll_bar.Form1.resources
+C:\Users\chike\Downloads\source1\Picture scroll bar\Picture scroll bar\obj\x86\Debug\Picture_scroll_bar.Properties.Resources.resources
+C:\Users\chike\Downloads\source1\Picture scroll bar\Picture scroll bar\obj\x86\Debug\Picture scroll bar.csproj.GenerateResource.cache
+C:\Users\chike\Downloads\source1\Picture scroll bar\Picture scroll bar\obj\x86\Debug\Picture scroll bar.csproj.CoreCompileInputs.cache
+C:\Users\chike\Downloads\source1\Picture scroll bar\Picture scroll bar\obj\x86\Debug\Picture scroll bar.exe
+C:\Users\chike\Downloads\source1\Picture scroll bar\Picture scroll bar\obj\x86\Debug\Picture scroll bar.pdb
+G:\Мой диск\колледж\Пользователи\Лёха\visual studio\source1\Picture scroll bar\Picture scroll bar\bin\Debug\Picture scroll bar.exe.config
+G:\Мой диск\колледж\Пользователи\Лёха\visual studio\source1\Picture scroll bar\Picture scroll bar\bin\Debug\Picture scroll bar.exe
+G:\Мой диск\колледж\Пользователи\Лёха\visual studio\source1\Picture scroll bar\Picture scroll bar\bin\Debug\Picture scroll bar.pdb
+G:\Мой диск\колледж\Пользователи\Лёха\visual studio\source1\Picture scroll bar\Picture scroll bar\obj\x86\Debug\Picture scroll bar.csproj.AssemblyReference.cache
+G:\Мой диск\колледж\Пользователи\Лёха\visual studio\source1\Picture scroll bar\Picture scroll bar\obj\x86\Debug\Picture scroll bar.csproj.SuggestedBindingRedirects.cache
+G:\Мой диск\колледж\Пользователи\Лёха\visual studio\source1\Picture scroll bar\Picture scroll bar\obj\x86\Debug\Picture_scroll_bar.Form1.resources
+G:\Мой диск\колледж\Пользователи\Лёха\visual studio\source1\Picture scroll bar\Picture scroll bar\obj\x86\Debug\Picture_scroll_bar.Properties.Resources.resources
+G:\Мой диск\колледж\Пользователи\Лёха\visual studio\source1\Picture scroll bar\Picture scroll bar\obj\x86\Debug\Picture scroll bar.csproj.GenerateResource.cache
+G:\Мой диск\колледж\Пользователи\Лёха\visual studio\source1\Picture scroll bar\Picture scroll bar\obj\x86\Debug\Picture scroll bar.csproj.CoreCompileInputs.cache
+G:\Мой диск\колледж\Пользователи\Лёха\visual studio\source1\Picture scroll bar\Picture scroll bar\obj\x86\Debug\Picture scroll bar.exe
+G:\Мой диск\колледж\Пользователи\Лёха\visual studio\source1\Picture scroll bar\Picture scroll bar\obj\x86\Debug\Picture scroll bar.pdb
+G:\Мой диск\колледж\Пользователи\Лёха\ПМ\Image Editor\Picture scroll bar\Picture scroll bar\bin\Debug\Picture scroll bar.exe.config
+G:\Мой диск\колледж\Пользователи\Лёха\ПМ\Image Editor\Picture scroll bar\Picture scroll bar\bin\Debug\Picture scroll bar.exe
+G:\Мой диск\колледж\Пользователи\Лёха\ПМ\Image Editor\Picture scroll bar\Picture scroll bar\bin\Debug\Picture scroll bar.pdb
+G:\Мой диск\колледж\Пользователи\Лёха\ПМ\Image Editor\Picture scroll bar\Picture scroll bar\obj\x86\Debug\Picture scroll bar.csproj.AssemblyReference.cache
+G:\Мой диск\колледж\Пользователи\Лёха\ПМ\Image Editor\Picture scroll bar\Picture scroll bar\obj\x86\Debug\Picture scroll bar.csproj.SuggestedBindingRedirects.cache
+G:\Мой диск\колледж\Пользователи\Лёха\ПМ\Image Editor\Picture scroll bar\Picture scroll bar\obj\x86\Debug\Picture_scroll_bar.Form1.resources
+G:\Мой диск\колледж\Пользователи\Лёха\ПМ\Image Editor\Picture scroll bar\Picture scroll bar\obj\x86\Debug\Picture_scroll_bar.Properties.Resources.resources
+G:\Мой диск\колледж\Пользователи\Лёха\ПМ\Image Editor\Picture scroll bar\Picture scroll bar\obj\x86\Debug\Picture scroll bar.csproj.GenerateResource.cache
+G:\Мой диск\колледж\Пользователи\Лёха\ПМ\Image Editor\Picture scroll bar\Picture scroll bar\obj\x86\Debug\Picture scroll bar.csproj.CoreCompileInputs.cache
+G:\Мой диск\колледж\Пользователи\Лёха\ПМ\Image Editor\Picture scroll bar\Picture scroll bar\obj\x86\Debug\Picture scroll bar.exe
+G:\Мой диск\колледж\Пользователи\Лёха\ПМ\Image Editor\Picture scroll bar\Picture scroll bar\obj\x86\Debug\Picture scroll bar.pdb
